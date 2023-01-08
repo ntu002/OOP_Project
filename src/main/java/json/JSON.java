@@ -10,7 +10,7 @@ public class JSON {
     public static final ObjectMapper MAPPER = new ObjectMapper();
 
     //Cần chỉnh sửa khi clone project
-    public static final String PREFIX_URL = "E:\\OOP_history_prj\\src\\json";
+    public static final String PREFIX_URL = "/Users/ntu00/Desktop/hoc/Năm_3/OOP/OOP_project/src/json";
 
     public static void writeJSON(String filename, HistoricalEntity entity) {
         try {
