@@ -79,7 +79,7 @@
             </AnchorPane>
         </items>
       </SplitPane>
-      <TextField layoutX="226.0" layoutY="55.0" prefHeight="25.0" prefWidth="305.0">
+      <TextField layoutX="226.0" layoutY="55.0" prefHeight="25.0" prefWidth="305.0" text="Search">
          <effect>
             <Glow level="0.33" />
          </effect></TextField>
@@ -91,52 +91,52 @@
                </font>
             </Label>
             <Line endX="132.4000244140625" layoutX="111.0" layoutY="29.0" startX="-100.0" stroke="#00000078" />
-            <Button layoutX="15.0" layoutY="227.0" mnemonicParsing="false" style="-fx-background-color: #f5bf1f;" text="Lý Thường Kiệt">
+            <Button contentDisplay="CENTER" layoutX="15.0" layoutY="227.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="120.0" style="-fx-background-color: #f5bf1f;" text="Lý Thường Kiệt" textAlignment="CENTER">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
             </Button>
-            <Button layoutX="14.0" layoutY="55.0" mnemonicParsing="false" style="-fx-background-color: #f5bf1f;" text="Hồ Chí Minh">
+            <Button contentDisplay="CENTER" layoutX="14.0" layoutY="55.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="120.0" style="-fx-background-color: #f5bf1f;" text="Hồ Chí Minh">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
             </Button>
-            <Button layoutX="15.0" layoutY="141.0" mnemonicParsing="false" style="-fx-background-color: #f5bf1f;" text="Lý Thái Tổ">
+            <Button contentDisplay="CENTER" layoutX="15.0" layoutY="141.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="120.0" style="-fx-background-color: #f5bf1f;" text="Lý Thái Tổ">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
             </Button>
-            <Button layoutX="14.0" layoutY="98.0" mnemonicParsing="false" style="-fx-background-color: #f5bf1f;" text="Nguyễn Trãi">
+            <Button contentDisplay="CENTER" layoutX="14.0" layoutY="98.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="120.0" style="-fx-background-color: #f5bf1f;" text="Nguyễn Trãi">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
             </Button>
-            <Button layoutX="15.0" layoutY="184.0" mnemonicParsing="false" style="-fx-background-color: #f5bf1f;" text="Quang Trung">
+            <Button contentDisplay="CENTER" layoutX="15.0" layoutY="184.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="120.0" style="-fx-background-color: #f5bf1f;" text="Quang Trung">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
             </Button>
-            <Button layoutX="202.0" layoutY="55.0" mnemonicParsing="false" style="-fx-background-color: #f5bf1f;" text="Đinh Tiên Hoàng">
+            <Button contentDisplay="CENTER" layoutX="202.0" layoutY="55.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="120.0" style="-fx-background-color: #f5bf1f;" text="Đinh Tiên Hoàng">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
             </Button>
-            <Button layoutX="202.0" layoutY="98.0" mnemonicParsing="false" style="-fx-background-color: #f5bf1f;" text="Ngô Quyền">
+            <Button contentDisplay="CENTER" layoutX="202.0" layoutY="98.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="120.0" style="-fx-background-color: #f5bf1f;" text="Ngô Quyền">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
             </Button>
-            <Button layoutX="202.0" layoutY="141.0" mnemonicParsing="false" style="-fx-background-color: #f5bf1f;" text="Hai Bà Trưng">
+            <Button contentDisplay="CENTER" layoutX="202.0" layoutY="141.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="120.0" style="-fx-background-color: #f5bf1f;" text="Hai Bà Trưng">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
             </Button>
-            <Button layoutX="202.0" layoutY="184.0" mnemonicParsing="false" style="-fx-background-color: #f5bf1f;" text="Hùng Vương">
+            <Button contentDisplay="CENTER" layoutX="202.0" layoutY="184.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="120.0" style="-fx-background-color: #f5bf1f;" text="Hùng Vương">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
             </Button>
-            <Button layoutX="202.0" layoutY="227.0" mnemonicParsing="false" style="-fx-background-color: #f5bf1f;" text="Lý Nam Đế">
+            <Button contentDisplay="CENTER" layoutX="202.0" layoutY="227.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="120.0" style="-fx-background-color: #f5bf1f;" text="Lý Nam Đế">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
