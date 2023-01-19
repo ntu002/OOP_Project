@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f66bb4ec-6e9a-464c-9041-46d38bbe83a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SceneBuilder/TrangChu.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SceneBuilder/TrangHienThiThongTin.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SceneBuilder/TrangNhapLink.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SceneBuilder/character.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SceneBuilder/favourite.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SceneBuilder/heritage.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SceneBuilder/notfound.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SceneBuilder/readme.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crawl/character/crawlCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crawl/event/crawlEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crawl/site/crawlHistorySite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crawl/timestamp/crawlTimeStamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jsoup-1.15.3.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,17 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ntu00/Desktop/hoc/Năm_3/OOP/OOP_project&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/ntu00/Desktop/hoc/Năm_3/OOP/OOP_project/src",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Run ">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
